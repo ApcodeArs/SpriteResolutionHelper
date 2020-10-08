@@ -1,0 +1,14 @@
+{
+  "name": "com.a-code.sprite-resolution-helper",
+  "version": "1.0.0",
+  "displayName": "Sprite Resolution Helper",
+  "description": "It's a simple Unity editor tool which allows you to monitor the resolution of sprites",
+  "unity": "2017.1",
+  "dependencies": {
+  },
+  "keywords": [ "Sprite", "Resolution", "Editor tool"],
+  "author": {
+    "name": "A-code team",
+    "url": "https://github.com/ApcodeArs/SpriteResolutionHelper"
+  }
+}
