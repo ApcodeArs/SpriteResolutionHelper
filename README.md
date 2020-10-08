@@ -7,7 +7,7 @@ Import package with Unity package manager
 # How to use
 Drag&Drop sprite
 
-If resolution of the sprite is Not a multiple of 4, then a warning will show in console
+If resolution of the sprite **is not** a multiple of 4, then a warning will show in console
 
 ![WrongSpriteExample.png](https://github.com/ApcodeArs/SpriteResolutionHelper/blob/main/PackageExample.png)
 
